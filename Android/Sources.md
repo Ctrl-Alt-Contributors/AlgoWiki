@@ -27,6 +27,8 @@ Android
 ## Online Training
 
 * [Vogella](http://www.vogella.com/tutorials/android.html)
+* [Pluralsight](https://app.pluralsight.com/search/?q=android%20development&m_sort=relevance&page=1&query_id=6ab0b6c9-da05-4e08-832d-e7ff03f884e7&is_auto_suggested=true)
+* [Udacity](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801?utm_source=gsem_brand&utm_medium=ads_n&utm_campaign=1929941003_c&utm_term=74283765767_af&utm_keyword=%2Budacity%20%2Bandroid_b&gclid=CjwKCAjwlovtBRBrEiwAG3XJ-0zEgGP66rrl6KHOF_Mf3SIh9QyOq6nrVfGCk2b0m0fQOy1CbKCN4xoCVzkQAvD_BwE)
 * [Android Basics Nanodegree](https://in.udacity.com/course/android-basics-nanodegree-by-google--nd803/)
 * [Tutorials Point](https://www.tutorialspoint.com/android/)
 * [Udemy](https://www.udemy.com/courses/development/mobile-development/Android-Video-Tutorials/)
